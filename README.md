@@ -1,7 +1,8 @@
 # pubnotebook
 ---
 ## 使用说明
-这里是唐本豪的公开笔记代码托管，如果你有访问权限并且希望访问更多，请移步https://github.com/benhaotang/universitynotebook
+这里是唐本豪的公开笔记代码托管，点击view code或者code来查看代码和文件，点击clone&download打包下载   
+当然，如果你有额外的访问权限并且希望访问更多文件，请移步https://github.com/benhaotang/universitynotebook
 在这里你可以看到：
 - NKPT培训材料
 - 物语角LaTeX演讲资料（demo.tex)   
